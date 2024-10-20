@@ -1,2 +1,1 @@
-# MINI_PROJECT
-Region Based Jobs 
+# Mini_project

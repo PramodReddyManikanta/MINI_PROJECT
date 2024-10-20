@@ -1,0 +1,33 @@
+Users Table: Stores user information, such as usernames, passwords, email addresses, and account settings.
+
+Profiles Table: Contains user profiles, including personal details, professional skills, work history, and portfolio information.
+
+Jobs or Projects Table: Stores information about posted jobs or projects, including titles, descriptions, budget, deadlines, and project status.
+
+Bids or Proposals Table: Contains data on bids or proposals submitted by freelancers for specific jobs or projects.
+
+Reviews and Ratings Table: Stores feedback and ratings provided by clients and employers about freelancers, and vice versa.
+
+Messaging or Chat Table: Manages communication between users, including messages, chat history, and notifications.
+
+Payments and Transactions Table: Tracks financial transactions, such as payments for completed projects, service fees, and withdrawal requests.
+
+Categories and Skills Table: Contains data about job categories, subcategories, and required skills, facilitating job postings and searches.
+
+Security and Access Control Table: Manages user permissions, roles, and access control within the platform.
+
+Location and Geography Table: Stores geographic information for job postings, such as location, city, country, and time zones.
+
+Notification and Email Templates Table: Manages predefined email templates and notification settings for user communication.
+
+Admin and Moderation Table: Contains data related to site administration, content moderation, and reporting features.
+
+Analytics and Logs Table: Stores user interactions, site traffic, and other data for analytics and reporting purposes
+
+
+
+
+BSOInyNN6usdpMQB
+
+mongodb://localhost:27017/
+mongodb://localhost:27017/
